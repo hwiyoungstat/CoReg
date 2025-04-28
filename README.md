@@ -2,4 +2,4 @@
 Coexpression Regression Analysis
 
 
--   Reproduce the simulation result [*\[Vignette\]*](https://github.com/hwiyoungstat/CoReg/blob/main/Replicabiliy_SI.html)
+-   Reproduce the simulation result [*\[Vignette\]*](https://hwiyoungstat.github.io/Replicabiliy_SI.html)
